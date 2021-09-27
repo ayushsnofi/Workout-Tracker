@@ -1,0 +1,15 @@
+{
+  "name": "workouttracker",
+  "version": "1.0.0",
+  "description": "Trace your WorkOut by logging it to the Web App ",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": " parcel build index.html"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
